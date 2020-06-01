@@ -31,7 +31,7 @@ function start(invar, outvar){
 	
 	
 	if (invar == "Who am I?"){
-		outvar("Helly-chan xD");
+		outvar("You");
 	}
 	
 	if (invar == "How am I?"){
